@@ -1,0 +1,1 @@
+insert into horaio (ID, Discricao, idprofessor) values (1, "Portugues", 1);
